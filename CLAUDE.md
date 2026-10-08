@@ -82,9 +82,11 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 - **Mais produtiva:** pela manhã
 - **Organização:** usa agenda
+- **Sono:** dorme às 23h e acorda às 5h
 - **Academia:** todos os dias às 5h30
+- **Plantão:** 7h às 19h; plantão em 09/10/2026 (ciclo a confirmar)
 - **Pós-plantão:** descansa no dia seguinte ao plantão
-- **Estudos:** ainda não começou; quer ajuda para organizar os horários
+- **Estudos:** ainda não começou; meta de 1h por dia, às vezes um pouco mais; quer ajuda para organizar os horários
 - **Ao planejar:** dividir tarefas em passos pequenos e deixar folga na agenda (sem sobrecarregar)
 
 ## 7. Vida pessoal e interesses
