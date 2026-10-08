@@ -59,9 +59,9 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
   - Pacote de 10 sessões: R$ 1.200 (R$ 120 por sessão)
 - **Pacientes atuais:** nenhum ainda (meta: 10)
 - **Agendamento:** hoje pelo WhatsApp; quer migrar para o Google Agenda
-- **Financeiro:** ainda sem planejamento financeiro
+- **Financeiro:** planilha [Planejamento Financeiro – Bia](https://docs.google.com/spreadsheets/d/1ib0lZw1J-3Lc0wlHE6ynJ3A4smMZ1j7x7ZpFGfuxTOY/edit) no Google Drive (criada em 08/10/2026). Os valores financeiros ficam só na planilha, não neste arquivo
 - **Ficha de avaliação:** já tem um modelo e quer reformulá-lo
-- **Identidade visual:** cores laranja e marrom
+- **Identidade visual:** laranja terroso e marrom
 
 ### Aplicativos autorizados
 - Gmail, Google Agenda, Google Drive, Google Docs e Canva
@@ -117,4 +117,21 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 ## 8. Preferências práticas
 
-_A preencher._
+- **Documentos:** Google Docs
+- **Formato de datas e números:** brasileiro (dd/mm/aaaa, R$ 1.234,56)
+- **Cores para materiais:** laranja terroso e marrom
+
+## 9. Fechamento
+
+- A Bia considera que o perfil já está completo e pediu para salvar tudo neste `CLAUDE.md`
+
+## Pendências
+
+- Nomes e datas de aniversário dos pais e do namorado (para lembretes anuais na agenda)
+- Valor da meta do fundo do casamento e se o fundo é individual ou do casal
+- Planilha: fatura do cartão de crédito, moradia, alimentação, transporte e academia
+- Se o salário do hospital é líquido
+- O que os R$ 900 do Instagram pagam (profissional, anúncios ou os dois) e se já trouxeram pacientes
+- Modelo atual da ficha de avaliação (para reformular no Google Docs)
+- Se vai à academia nos dias de plantão
+- Detalhes da prova de título e do mestrado (datas, instituição)
