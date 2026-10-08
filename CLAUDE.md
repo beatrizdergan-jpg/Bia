@@ -19,7 +19,7 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 - **Profissão:** fisioterapeuta
 - **Trabalho atual:** UTI da Beneficente Portuguesa (Belém)
 - **Responsabilidade principal:** reabilitação cardiorrespiratória dos pacientes
-- **Escala:** plantões de 12h; depois de cada plantão, tem dois dias livres, que usa para o atendimento particular
+- **Escala:** plantões de 12h; depois de cada plantão, folga dois dias (o primeiro para descanso, o segundo para o consultório)
 - **Transição em andamento:** está migrando para um consultório próprio
 - **Ferramentas mais usadas:** Canva e Google Docs
 
@@ -56,7 +56,7 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 - **Atendimento:** apenas particular (sem convênio)
 - **Preços:**
   - Sessão avulsa: R$ 160
-  - Pacote de 10 sessões: R$ 120 por sessão (a confirmar se o pacote sai por R$ 1.200 no total)
+  - Pacote de 10 sessões: R$ 1.200 (R$ 120 por sessão)
 - **Pacientes atuais:** nenhum ainda (meta: 10)
 - **Agendamento:** hoje pelo WhatsApp; quer migrar para o Google Agenda
 - **Financeiro:** ainda sem planejamento financeiro
@@ -98,7 +98,22 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 ## 7. Vida pessoal e interesses
 
-_A preencher._
+### Fé
+- Católica Apostólica Romana
+- Consagrada missionária da comunidade católica **Cristo Alegria**: comunidade de aliança para leigos, de vocação matrimonial
+- **Valores católicos devem guiar as sugestões do Claude**
+
+### Interesses
+- **Leitura:** livros católicos e romances
+- **Filmes:** romance
+- **Podcasts:** feminilidade e crimes reais
+
+### Pessoas importantes
+- Pais e namorado. Lembrar dos aniversários (datas e nomes a preencher)
+
+### Metas pessoais e financeiras
+- Faturar **R$ 10.000 por mês** com a fisioterapia
+- Montar um **fundo para o casamento** em 2 anos (previsão: por volta de outubro de 2028)
 
 ## 8. Preferências práticas
 
