@@ -32,7 +32,10 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 - **Formação:** graduação em Fisioterapia
 - **Pós-graduação:** Fisioterapia Cardiorrespiratória
-- **Pontos fortes, aprendizados e nível com tecnologia:** _a preencher_
+- **Certificações:** Suporte Básico de Vida (BLS) pela American Heart Association
+- **Ponto forte:** comunicação
+- **Quer aprender:** reabilitação cardíaca e gestão em saúde
+- **Nível com tecnologia:** iniciante. Explicar passos técnicos de forma simples, sem jargão, um passo de cada vez
 
 ## 4. Como quer usar o Claude
 
