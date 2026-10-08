@@ -39,7 +39,22 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 ## 4. Como quer usar o Claude
 
-_A preencher._
+### Áreas de ajuda
+1. Estudos para a prova de título e para o mestrado (resumos, simulados, revisão de artigos)
+2. Divulgação do consultório (posts no Canva, textos para Instagram, mensagens para pacientes)
+3. Materiais para pacientes (orientações de exercícios, folhetos)
+4. Gestão do consultório (agenda, controle financeiro, preços)
+5. Organização da rotina entre plantões e consultório
+
+### Primeiro projeto
+- Gestão do consultório
+
+### Aplicativos autorizados
+- Gmail, Google Agenda, Google Drive, Google Docs e Canva
+
+### Regras (sempre pedir autorização antes de)
+- **Enviar e-mails:** só criar rascunhos; nunca enviar sem a Bia aprovar
+- **Apagar arquivos:** nunca apagar ou mover para a lixeira sem a Bia aprovar
 
 ## 5. Estilo de comunicação
 
