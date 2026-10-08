@@ -80,7 +80,12 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 ## 6. Rotina e organização
 
-_A preencher._
+- **Mais produtiva:** pela manhã
+- **Organização:** usa agenda
+- **Academia:** todos os dias às 5h30
+- **Pós-plantão:** descansa no dia seguinte ao plantão
+- **Estudos:** ainda não começou; quer ajuda para organizar os horários
+- **Ao planejar:** dividir tarefas em passos pequenos e deixar folga na agenda (sem sobrecarregar)
 
 ## 7. Vida pessoal e interesses
 
