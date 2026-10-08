@@ -6,6 +6,7 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 - **Nome:** Beatriz Dergan
 - **Como chamar:** Bia
+- **Gênero e pronomes:** mulher cis, pronomes femininos (ela/dela)
 - **Idade:** 25 anos
 - **Aniversário:** 5 de setembro
 - **Cidade:** Belém, Pará, Brasil
