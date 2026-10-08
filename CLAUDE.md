@@ -15,11 +15,23 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 ## 2. Trabalho e carreira
 
-_A preencher._
+- **Profissão:** fisioterapeuta
+- **Trabalho atual:** UTI da Beneficente Portuguesa (Belém)
+- **Responsabilidade principal:** reabilitação cardiorrespiratória dos pacientes
+- **Escala:** plantões de 12h; depois de cada plantão, tem dois dias livres, que usa para o atendimento particular
+- **Transição em andamento:** está migrando para um consultório próprio
+- **Ferramentas mais usadas:** Canva e Google Docs
+
+### Objetivos profissionais
+1. Fazer a prova de título de especialista
+2. Passar em um programa de mestrado
+3. Captar 10 pacientes particulares
 
 ## 3. Formação e habilidades
 
-_A preencher._
+- **Formação:** graduação em Fisioterapia
+- **Pós-graduação:** Fisioterapia Cardiorrespiratória
+- **Pontos fortes, aprendizados e nível com tecnologia:** _a preencher_
 
 ## 4. Como quer usar o Claude
 
