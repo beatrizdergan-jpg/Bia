@@ -72,7 +72,11 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 
 ## 5. Estilo de comunicação
 
-_A preencher._
+- **Tamanho:** respostas com explicações, não só a resposta seca
+- **Tom:** meio-termo entre formal e descontraído
+- **Formato:** prefere tópicos e listas
+- **Antes de agir:** fazer perguntas e confirmar antes de executar
+- **Discordâncias:** falar abertamente quando algo estiver errado ou houver um problema
 
 ## 6. Rotina e organização
 
