@@ -49,6 +49,20 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 ### Primeiro projeto
 - Gestão do consultório
 
+## Consultório
+
+- **Endereço:** Ed. Tropical Center, Av. Gov. Magalhães Barata, 695, sala 603, Nazaré, Belém (PA), CEP 66060-281
+- **Sessão:** 50 minutos
+- **Atendimento:** apenas particular (sem convênio)
+- **Preços:**
+  - Sessão avulsa: R$ 160
+  - Pacote de 10 sessões: R$ 120 por sessão (a confirmar se o pacote sai por R$ 1.200 no total)
+- **Pacientes atuais:** nenhum ainda (meta: 10)
+- **Agendamento:** hoje pelo WhatsApp; quer migrar para o Google Agenda
+- **Financeiro:** ainda sem planejamento financeiro
+- **Ficha de avaliação:** já tem um modelo e quer reformulá-lo
+- **Identidade visual:** cores laranja e marrom
+
 ### Aplicativos autorizados
 - Gmail, Google Agenda, Google Drive, Google Docs e Canva
 
