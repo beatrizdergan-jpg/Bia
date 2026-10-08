@@ -84,9 +84,16 @@ Este arquivo reúne o que o Claude sabe sobre a Bia. Ele é atualizado conforme 
 - **Organização:** usa agenda
 - **Sono:** dorme às 23h e acorda às 5h
 - **Academia:** todos os dias às 5h30
-- **Plantão:** 7h às 19h; plantão em 09/10/2026 (ciclo a confirmar)
+- **Plantão:** 7h às 19h, em ciclo de 3 dias: plantão → descanso → consultório (primeiro: 09/10/2026)
+- **Atende fins de semana:** sim
 - **Pós-plantão:** descansa no dia seguinte ao plantão
 - **Estudos:** ainda não começou; meta de 1h por dia, às vezes um pouco mais; quer ajuda para organizar os horários
+- **Google Agenda (criada em 08/10/2026, até 08/01/2027):**
+  - Plantão (cinza/grafite), a partir de 12/10; o plantão de 09/10 já estava na agenda da Bia
+  - Dia de descanso: academia 5h30 (opcional) e estudo leve 9h–10h (opcional)
+  - Dia de consultório: academia 5h30, estudo 7h–8h, atendimentos 8h–12h e 14h–18h (laranja), gestão 18h–18h30
+  - Cores: laranja = consultório, verde = estudo, amarelo = academia, grafite = plantão
+  - 11/10/2026 (Círio de Nazaré) deixado livre
 - **Ao planejar:** dividir tarefas em passos pequenos e deixar folga na agenda (sem sobrecarregar)
 
 ## 7. Vida pessoal e interesses
